@@ -1907,7 +1907,6 @@ ul.breadcrumb li a:hover {
   visibility: hidden;
 }
 
-/* line 35, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_team.scss */
 .team_area .single_team .team_thumb .social_link li {
   display: inline-block;
 }
@@ -1943,7 +1942,6 @@ ul.breadcrumb li a:hover {
   font-family: "Roboto", sans-serif;
 }
 
-/* line 68, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_team.scss */
 .team_area .single_team:hover .team_thumb img {
   width: 100%;
   -webkit-transform: scale(1.1);
@@ -2039,24 +2037,20 @@ ul.breadcrumb li a:hover {
   opacity: .4;
 }
 
-/* line 60, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_testmonial.scss */
 .testimonial_area .owl-carousel .owl-item.active {
   opacity: 1;
 }
 
-/* line 64, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_testmonial.scss */
 .testimonial_area .owl-carousel .owl-item img {
   display: inline-block;
   width: auto;
 }
 
-/* line 68, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_testmonial.scss */
 .testimonial_area .owl-carousel .owl-nav div.owl-next {
   left: auto;
   right: 0;
 }
 
-/* line 72, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_testmonial.scss */
 .testimonial_area .owl-carousel .owl-nav div {
   right: 57px;
   top: -28px;
@@ -5360,7 +5354,6 @@ h6 {
   margin-right: 10px;
 }
 
-/* line 1006, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_blog.scss */
 .blog-pagination .page-link i,
 .blog-pagination .page-link span {
   font-size: 13px;
@@ -5372,19 +5365,17 @@ h6 {
   color: #888888;
 }
 
-/* line 1025, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_blog.scss */
 .blog-pagination .page-item:last-child .page-link {
   margin-right: 0;
 }
 
 /*============ Start Blog Single Styles  =============*/
-/* line 1050, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_blog.scss */
+
 .single-post-area .blog_details {
   box-shadow: none;
   padding: 0;
 }
 
-/* line 1055, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_blog.scss */
 .single-post-area .social-links {
   padding-top: 10px;
 }
