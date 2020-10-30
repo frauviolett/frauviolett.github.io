@@ -575,18 +575,15 @@ ul.breadcrumb li a:hover {
   cursor: pointer;
 }
 
-/* line 143, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_btn.scss */
 .boxed-btn2:hover {
   background: #DB9A64;
   color: #fff !important;
 }
 
-/* line 147, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_btn.scss */
 .boxed-btn2:focus {
   outline: none;
 }
 
-/* line 151, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_btn.scss */
 .line-button {
   color: #919191;
   font-size: 16px;
@@ -597,7 +594,6 @@ ul.breadcrumb li a:hover {
   padding-bottom: 2px;
 }
 
-/* line 159, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_btn.scss */
 .line-button::before {
   position: absolute;
   content: "";
@@ -1911,14 +1907,12 @@ ul.breadcrumb li a:hover {
   display: inline-block;
 }
 
-/* line 37, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_team.scss */
 .team_area .single_team .team_thumb .social_link li a {
   font-size: 15px;
   color: #C7C7C7;
   margin: 0 6px;
 }
 
-/* line 41, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_team.scss */
 .team_area .single_team .team_thumb .social_link li a:hover {
   color: #F91842;
 }
@@ -5007,7 +5001,6 @@ h6 {
   color: #DB9A64;
 }
 
-/* line 550, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_blog.scss */
 .blog_details h2 {
   font-size: 18px;
   font-weight: 600;
@@ -5028,7 +5021,6 @@ h6 {
   font-size: 14px;
 }
 
-/* line 568, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_blog.scss */
 .blog-info-link li a {
   color: #999999;
 }
