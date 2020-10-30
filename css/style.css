@@ -257,7 +257,40 @@ h3 {
   opacity: 1;
 }
 
-/* line 210, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  background: transparent;
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center
+  
+}
+
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: #eee;
+  content: "/\00a0";
+}
+
+ul.breadcrumb li a {
+  color: #eee;
+  text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+  color: #DB9A64;
+  text-decoration: underline;
+}
+
+
 .section-padding {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -634,7 +667,6 @@ h3 {
   }
 }
 
-/* line 24, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_section_title.scss */
 .section_title p {
   font-size: 20px;
   color: #F91842;
@@ -716,13 +748,11 @@ h3 {
   top: 11px;
 }
 
-/* line 28, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
   color: #DB9A64;
 }
 
-/* line 32, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slick-nav.scss */
 .slicknav_menu .slicknav_nav a.active {
   color: #DB9A64;
 }
@@ -1060,7 +1090,6 @@ h3 {
   }
 }
 
-/* line 169, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a i {
   font-size: 9px;
 }
@@ -1128,7 +1157,7 @@ h3 {
 }
 
 .header-area .main-header-area .main-menu ul li .submenu li:hover a {
-  color: #000;
+  color: rgb(59, 1, 28);
 }
 
 .header-area .main-header-area .main-menu ul li:hover > .submenu {
@@ -2273,7 +2302,6 @@ h3 {
   }
 }
 
-/* line 45, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_accordion_area.scss */
 .accordion_area .faq_ask #accordion .card {
   position: relative;
   display: -webkit-box;
@@ -5338,7 +5366,6 @@ h6 {
   font-size: 13px;
 }
 
-/* line 1018, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_blog.scss */
 .blog-pagination .page-item.active .page-link {
   background-color: #fbf9ff;
   border-color: #f0e9ff;
