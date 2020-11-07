@@ -3,6 +3,7 @@ This is my personal portfolio focous in Designer.
 
 # Technology
 Developed site responsive using Html, CSS and JS.
+This portfolio contains copyright images. Please don't copy!
 
 # I want to use this!
 You're free to use this for your own personal portfolio; but please do write to me telling me you have!
